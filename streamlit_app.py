@@ -58,4 +58,4 @@ if st.button("Analyze Sentiment"):
         st.warning("Please enter some text or upload a .txt file to analyze.")
 
 st.markdown("---")
-st.markdown("Developed by [Your Name](https://github.com/yourusername)")
+st.subheader("Developed by [Halab Khidhr](https://github.com/khidhr)")
